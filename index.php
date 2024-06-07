@@ -9,7 +9,7 @@
 <body>
 
     <header>
-        <h1>Cadastre-se</h1>
+        <h1>Cadastre o produto</h1>
     </header>
 
     <section>
